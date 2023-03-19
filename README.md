@@ -11,20 +11,20 @@
     <br>
     <p>Atualmente, estou me aprimorando nas seguintes tecnologias:</p>
     <ul>
-        <li>HTML & CSS</li>
-        <li>JavaScript</li>
+        <li>HTML & CSS;</li>
+        <li>JavaScript.</li>
     </ul>
     <br>
     <p>Possuo também, um breve conhecimento em:</p>
     <ul>
-        <li>Java</li>
-        <li>Kotlin</li>
+        <li>Java;</li>
+        <li>Kotlin.</li>
     </ul>
     <br>
     <p>E pretendo aprender:</p>
     <ul>
-        <li>SQL</li>
-        <li>GIT e GitHub</li>
-        <li>TypeScript</li>
+        <li>SQL;</li>
+        <li>GIT e GitHub;</li>
+        <li>TypeScript.</li>
     </ul>
 </div>
