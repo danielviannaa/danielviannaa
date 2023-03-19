@@ -5,6 +5,7 @@
     </p>
     <br>
     <h2>📝 | Projetos</h2>
+    <br>
     <p>Atualmente, não possuo nenhum projeto já pronto, porém, tenho alguns em desenvolvimento.</p>
     <br>
     <h2>🖥️ | Tecnologias</h2>
