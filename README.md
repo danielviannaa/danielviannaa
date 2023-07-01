@@ -1,7 +1,7 @@
 <div>
     <h2>📜 | Sobre mim</h2>
     <br>
-    <p>Olá, meu nome é Daniel Vianna, tenho 16 anos, e estou no 3° ano do ensino médio. Pretendo fazer algum curso técnico na área de Desenvolvimento de Sistemas, e, ao finalizar o ensino médio, a faculdade de Ciência da Computação.
+    <p>Olá, meu nome é Daniel Vianna, tenho 17 anos, e estou no 3° ano do ensino médio. Pretendo fazer algum curso técnico na área de Desenvolvimento de Sistemas, e, ao finalizar o ensino médio, a faculdade de Ciência da Computação.
     </p>
     <br>
     <h2>📝 | Projetos</h2>
