@@ -12,12 +12,12 @@
     <br>
     <p>Atualmente, estou me aprimorando nas seguintes tecnologias:</p>
     <ul>
-        <li>Kotlin.</li>
+        <li>Java.</li>
     </ul>
     <br>
     <p>Possuo também, um breve conhecimento em:</p>
     <ul>
-        <li>Java;</li>
+        <li>Kotlin;</li>
         <li>HTML & CSS;</li>
         <li>GIT e GitHub;</li>
         <li>JS/TS.</li>
