@@ -1,7 +1,7 @@
 <div>
     <h2>📜 | Sobre mim</h2>
     <br>
-    <p>Olá, meu nome é Daniel Vianna, tenho 18 anos. E atualmente, não estou cursando nada na área, porém, pretendo em breve começar.</p>
+    <p>Olá, meu nome é Daniel Vianna, tenho 18 anos. E sou um estudante autônomo na área de Desenvolvimento de Sistemas.</p>
     <br>
     <h2>📝 | Projetos</h2>
     <br>
